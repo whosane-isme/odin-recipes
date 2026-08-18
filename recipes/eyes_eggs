@@ -7,6 +7,7 @@
 <body>
 <h1>Eyes Eggs</h1>
 <p>Recipe</p>
+<a href="../index.html">Back to Home</a>
 <ul>
     <li>oil</li>
     <li>eggs</li>
